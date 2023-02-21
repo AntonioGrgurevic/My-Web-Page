@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+.prvi{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+.drugi{
+background-color: blue;
+width: 200px;
+height: 200px;
+position: absolute;
+left: 200px;
+top: 200px;
+}
+.treci{
+height: 200px;
+width: 200px;
+position: absolute;
+background-color:  yellow;
+}

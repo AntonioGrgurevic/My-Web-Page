@@ -1,0 +1,143 @@
+hr {
+  border-style: dotted;
+}
+/*For example to edit an entire body you have to put it under the style tag andthen you can make it howeveryou want 
+You can also change the look of your hr tag for example you can change the style to be dotted
+When changing borders one value applies to all four sides.
+When two values are specified, the first style applies to the top and bottom, the second to the left and right.
+When three values are specified, the first style applies to the top, the second to the left and right, the third to the bottom.
+When four values are specified, the styles apply to the top, right, bottom, and left in that order (clockwise)
+You can also change one part for example border-top style*/
+
+.class {
+  background-color: blue;
+}
+/*Class is a attribute that is used in css for changing a specific tag and you use it by puting a dot before 
+   the class name*/
+
+#id {
+  background-color: red;
+}
+/*To use an id you have to put a #(hashtag) and then write your id name after the # it should look like this
+#idname{} */
+
+.img {
+  border-radius: 50%;
+}
+/*You can use border radius to change a shape of an image*/
+
+div {
+  border: 3px;
+  border-top: 10px;
+  border-right: 20px;
+  border-bottom: 5px;
+  border-left: 25px;
+}
+/*border is basically another layer or a border around your element which you can change
+seperatley than your normal elements for example your div*/
+/*You can also specifically choose which part of your border you want to change for example you can use:
+border-top to only change the top section of the border
+or you can use the following example*/
+div {
+  border: solid;
+  border: 10px 5px 20px 30px;
+}
+/*You can also put them in a single row
+The first one is the top one,the second is right, the third is bottom and the fourth is the left one*/
+div {
+  padding: 20px;
+}
+/*padding is space between text and the edge of the element*/
+div {
+  margin: 20px;
+  margin: auto;
+}
+/*margin is space outside your element*/
+/*margin auto will herizontally center your text*/
+p {
+  text-decoration: underline;
+}
+/*text decoration is used to as it's name says decorate a text. For example we can underline our text.*/
+a {
+  display: inline;
+}
+/*display is an element which is used to define the display of an element. For example inline will put text in a line but you can't modify it's width, but if you
+put it in a block than you can modify it but they won't be in a straight line */
+a {
+  display: inline-block;
+}
+/*display inline-block will put your text in a straight line but you can still modify it as a block*/
+h1 {
+  display: none;
+}
+/*display none will get rid of your element*/
+h2 {
+  visibility: hidden;
+  visibility: visible;
+}
+/*visibility is an element which is used to make a certain element visible or hidden.
+If you put hidden your text will simply be invisible and there will be space in place of your element and other elements won't move because it still exists thereit is only hidden*/
+div {
+  position: fixed;
+  position: relative;
+  position: static;
+  position: absolute;
+  position: sticky;
+}
+/*position specifies the method used for positioning an element*/
+/*
+static is the default position
+relative is used to position an element from it's normal position. Relative will also leave a invisible block from where you moved your block so
+that others won't collide and move in it's place
+fixed means that your element will stay in the same place even if you scroll your page
+sticky is positioned based on the user's scroll position. It will move with the scroll wheel
+*/
+div {
+  position: relative;
+}
+img {
+  position: absolute;
+  right: 20px;
+}
+/*absolute is positioned relative to the parent. For example if you have a img inside a div(in html)the image will move according to your div
+Here the image will move right inside your div*/
+body {
+  text-align: center;
+}
+/*text-allign is used to move your text*/
+p {
+  font-family: "Robot";
+}
+/*font family is used for seting a font for your element but you can also put many in the same font 
+family you can put multiple fonts so if a browser doesn't support the first one it will select the second one
+also you can copy a font from your browser and paste it in your html element*/
+p:visited {
+  text-decoration: none;
+  color: aqua;
+}
+/*:visited is used to select visited links and style them. For example you can change the purple text og the link*/
+ul {
+  line-height: 10;
+}
+/*you can use line-height to put space between list(li) */
+a {
+  font-weight: normal;
+}
+/*font-weight is used to set how thick or thin text will be*/
+.bik {
+  float: left;
+  float: right;
+  float: none;
+  float: inherit;
+}
+/*In its simplest use, the float property can be used to wrap text around images
+left - The element floats to the left of its container
+right - The element floats to the right of its container
+none - The element does not float (will be displayed just where it occurs in the text). This is default
+inherit - The element inherits the float value of its parent
+If an element has absolute it will ignore float!!!!
+*/
+p {
+  clear: left;
+}
+/*The clear property specifies what should happen with the element that is next to a floating element*/

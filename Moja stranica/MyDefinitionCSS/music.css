@@ -1,0 +1,335 @@
+body {
+  margin: 0px;
+}
+
+.AfterHoursimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 0px;
+}
+.DawnFMimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 372.8px;
+  top: 0px;
+}
+.MyDearMelancholyimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 745.6px;
+  top: 0px;
+}
+.Starboyimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 1118.4px;
+  top: 0px;
+}
+.BeautyBehindtheMadnessimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 1491.2px;
+  top: 0px;
+}
+.KissLand {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 372.8px;
+}
+.EchoesofSilenceimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 372.8px;
+}
+.Thursdayimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 745.6px;
+}
+.HouseofBalloonsimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 745.6px;
+}
+.GoodRiddanceimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 1118.4px;
+}
+.DeathRaceForLoveimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 1118.4px;
+}
+.LegendsNeverDieimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 1491.2px;
+}
+.FightingDemonsimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 1491.2px;
+}
+
+.nightatheoperaimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 1864px;
+}
+.Astroworldimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 1864px;
+}
+.beerbongsimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 2236.8px;
+}
+.graduationimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 2236.8px;
+}
+.hollywoodimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 2609.6px;
+}
+.HybridTheoryimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 2609.6px;
+}
+.LetGoimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 2982.4px;
+}
+.MyBeautifulDarkTwistedFantasyimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 2982.4px;
+}
+.SlipperyWhenWetimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 3355.2px;
+}
+.Stoneyimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 3355.2px;
+}
+.Thrillerimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 3728px;
+}
+.TwelveCaratToothacheimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  top: 3728px;
+}
+.VitalIdolimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: absolute;
+  display: inline-block;
+  left: 0px;
+  top: 4100.8px;
+}
+.top {
+  color: #ffffcd;
+  background-color: #095572;
+  margin: 0px;
+  width: 1118.4px;
+  display: inline-block;
+  text-align: center;
+  position: absolute;
+  right: 372.8px;
+  top: 372.8px;
+}
+.toptext {
+  font-size: 23px;
+}
+.midd {
+  background-color: #17234d;
+  margin: 0px;
+  height: 600px;
+  width: 1118.4px;
+  display: inline-block;
+  position: absolute;
+  right: 372.8px;
+  top: 895px;
+}
+.middtext {
+  margin-top: 60px;
+  font-size: 20px;
+}
+.middtitle {
+  margin: 0px;
+  position: relative;
+  top: 30px;
+  font-size: 60px;
+  font-family: "Blank";
+  color: #f7d981;
+}
+@font-face {
+  font-family: "Blank";
+  src: url(../Fonts/BlanksscriptpersonaluseBdit-jEM6O.otf);
+}
+@font-face {
+  font-family: "Rocker";
+  src: url(../Fonts/NewRocker-Regular.ttf);
+}
+@font-face {
+  font-family: "Bubble";
+  src: url(../Fonts/BubbleHead-6Y1jq.ttf);
+}
+@font-face {
+  font-family: "Graffiti";
+  src: url(../Fonts/AttackGraffiti-3zRBM.ttf);
+}
+@font-face {
+  font-family: "Globe";
+  src: url(../Fonts/TheGlobePersonalUseBold-2ORlw.ttf);
+}
+.poptitle {
+  font-family: "Bubble";
+  color: #cb053b;
+}
+.poptext {
+  font-family: "Bubble";
+  color: #e6b80f;
+}
+.hip-hoptitle {
+  font-family: "Graffiti";
+  color: #0a7d42;
+}
+.hip-hoptext {
+  font-family: "Globe";
+  color: #9f502b;
+  font-size: 20px;
+}
+.rocktitle {
+  font-family: "Rocker";
+  font-size: 30px;
+  color: #9d988f;
+}
+.rocktext {
+  font-family: "Rocker";
+  font-size: 25px;
+  color: #a21d11;
+}
+.MoonMusicimg {
+  height: 372.8px;
+  width: 372.8px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.bot {
+  margin: 0px;
+  display: inline-block;
+  text-align: center;
+  position: absolute;
+  right: 830px;
+  top: 1500px;
+}
+.weekndsection {
+  display: inline-block;
+  position: relative;
+  top: 100px;
+  left: 400px;
+}
+.weekndimg {
+  height: 372.8px;
+  width: 372.8px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.weekndtext {
+  font-size: 19px;
+  text-align: left;
+}
+.favartisttitle {
+  position: absolute;
+  right: 0px;
+}
+.walbums {
+  font-size: 20px;
+}

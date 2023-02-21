@@ -1,0 +1,221 @@
+.top {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #3a3e40;
+  width: 100%;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+  margin: 0;
+}
+.bloodbornenaslov {
+  width: 621px;
+  height: 475px;
+  position: relative;
+  left: 0px;
+  top: 4px;
+}
+
+.eldennaslov {
+  width: 621px;
+  height: 475px;
+  position: relative;
+  left: -4px;
+  top: 4px;
+}
+.ds3naslov {
+  width: 621px;
+  height: 475px;
+  position: absolute;
+  right: 1px;
+  top: 41px;
+}
+
+.Eldennaslovtext {
+  font-family: "Inknut Antiqua", serif;
+  position: relative;
+  left: 0;
+  margin: 0;
+  color: #f9f2ba;
+}
+.eldensectionimg {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  border-radius: 5%;
+}
+.middtitle1 {
+  background-color: #0b2728;
+  display: inline-block;
+  position: absolute;
+  top: 516px;
+  left: 0;
+  width: 100%;
+}
+.middtext1 {
+  display: inline-block;
+  position: relative;
+  top: -100px;
+  font-size: 22px;
+  color: #f9f2ba;
+  background-color: #0b2728;
+}
+.Erlink {
+  text-decoration: none !important;
+  color: #f9f2ba;
+}
+.Erlink:hover {
+  background-color: gray;
+}
+.Fslink:link {
+  text-decoration: none !important;
+  color: #f9f2ba;
+}
+.Fslink:hover {
+  background-color: gray;
+}
+.Fslink:visited {
+  color: #f9f2ba;
+  text-decoration: none !important;
+}
+.eldenlist {
+  line-height: 5;
+}
+.LichOST {
+  position: relative;
+  top: 20px;
+}
+.middtitle2 {
+  background-color: #68666b;
+  display: inline-block;
+  width: 110%;
+  position: relative;
+  top: 1240px;
+  left: -8px;
+  font-size: 22px;
+}
+.bloodnaslovtext {
+  font-family: "New Rocker", cursive;
+  position: relative;
+  left: 0px;
+  margin: 0;
+  color: #69120f;
+}
+.bloodbornesectionimg {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  border-radius: 5%;
+}
+.bloodbornelist {
+  line-height: 5;
+  font-family: "New Rocker", cursive;
+}
+.Bloodlink {
+  text-decoration: none;
+  color: #69120f;
+}
+.Bloodlink:hover {
+  background-color: black;
+}
+.Bloodlink:visited {
+  color: #69120f;
+}
+.Fslink2:link {
+  text-decoration: none;
+  color: #69120f;
+}
+.Fslink2:hover {
+  background-color: black;
+}
+.Fslink2:visited {
+  color: #69120f;
+}
+
+.middtext2 {
+  display: inline-block;
+  position: relative;
+  top: 600px;
+  left: 1000px;
+  font-size: 22px;
+  color: #69120f;
+  background-color: #68666b;
+}
+.GhermanOST {
+  position: relative;
+  top: 20px;
+}
+.middtitle3 {
+  background-color: #605424;
+  display: inline-block;
+  width: 110%;
+  position: relative;
+  top: 646px;
+  left: -8px;
+  font-size: 22px;
+}
+
+.DS3sectionimg {
+  position: relative;
+  width: 1000px;
+  height: 600px;
+  border-radius: 5%;
+}
+.middtext3 {
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  left: 1000px;
+  font-size: 19px;
+  color: #372209;
+  background-color: #605424;
+}
+.DS3list {
+  line-height: 5;
+  font-family: "Rye", cursive;
+}
+.DS3naslovtext {
+  font-family: "Rye", cursive;
+  position: relative;
+  left: 0px;
+  margin: 0;
+  color: #372209;
+}
+.SoulOfCinderOST {
+  position: relative;
+  top: 20px;
+}
+.Fslink3:link {
+  text-decoration: none;
+  color: #372209;
+}
+.Fslink3:hover {
+  background-color: #877e62;
+}
+.Fslink3:visited {
+  color: #372209;
+}
+.DS3link:link {
+  text-decoration: none;
+  color: #372209;
+}
+.DS3link:visited {
+  color: #372209;
+}
+.DS3link:hover {
+  background-color: #877e62;
+}
+.Homepagetext:link {
+  color: #a8a08e;
+}
+.Homepagetext:visited {
+  color: #a8a08e;
+}
+.Homepagetext:hover {
+  background-color: #7e2e0a;
+}

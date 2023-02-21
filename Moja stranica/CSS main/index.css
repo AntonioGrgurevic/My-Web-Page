@@ -1,0 +1,64 @@
+body {
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+  font-family: "Roboto", Arial;
+  font-size: 200%;
+}
+
+h1 {
+  margin-top: 100px;
+  position: relative;
+  font-size: 100px;
+  color: #d72323;
+  font-family: Helvetica, Arial;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Open+Sans";
+  color: #d72323;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  color: #d72323;
+}
+
+.top-container {
+  background-image: url("../Pictures/firecircle.jpg");
+}
+
+.gram {
+  text-decoration: underline;
+  color: #d72323;
+  font-size: 50px;
+  font-weight: normal;
+}
+a {
+  color: #d72323;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.brainmf {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimg {
+  height: 400px;
+  width: 50%;
+  float: right;
+  margin-right: 30px;
+}
+.meimg {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
