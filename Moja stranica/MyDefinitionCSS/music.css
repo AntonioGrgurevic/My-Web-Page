@@ -225,6 +225,9 @@ body {
 .toptext {
   font-size: 23px;
 }
+
+/* Midd div beggining */
+
 .midd {
   background-color: #17234d;
   margin: 0px;
@@ -234,6 +237,15 @@ body {
   position: absolute;
   right: 372.8px;
   top: 895px;
+}
+.MoonMusicimg {
+  position: relative;
+  top: 30px;
+  height: 372.8px;
+  width: 372.8px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
 }
 .middtext {
   margin-top: 60px;
@@ -247,6 +259,9 @@ body {
   font-family: "Blank";
   color: #f7d981;
 }
+
+/* Fonts */
+
 @font-face {
   font-family: "Blank";
   src: url(../Fonts/BlanksscriptpersonaluseBdit-jEM6O.otf);
@@ -267,6 +282,10 @@ body {
   font-family: "Globe";
   src: url(../Fonts/TheGlobePersonalUseBold-2ORlw.ttf);
 }
+@font-face {
+  font-family: "Sunny";
+  src: url(../Fonts/SunnySpellsBasicRegular-Yz1Wv.ttf);
+}
 .poptitle {
   font-family: "Bubble";
   color: #cb053b;
@@ -285,22 +304,20 @@ body {
   font-size: 20px;
 }
 .rocktitle {
+  padding-left: 10px;
   font-family: "Rocker";
   font-size: 30px;
   color: #9d988f;
 }
 .rocktext {
+  margin-left: 10px;
   font-family: "Rocker";
   font-size: 25px;
   color: #a21d11;
 }
-.MoonMusicimg {
-  height: 372.8px;
-  width: 372.8px;
-  border-radius: 50%;
-  float: left;
-  margin-right: 30px;
-}
+
+/* Beggining of bot div */
+
 .bot {
   margin: 0px;
   display: inline-block;
@@ -309,11 +326,29 @@ body {
   right: 830px;
   top: 1500px;
 }
+.favartisttitle {
+  position: absolute;
+  top: -5px;
+  left: 457px;
+  padding-top: 20px;
+  font-family: "Sunny";
+  font-size: 3rem;
+  margin: 0px;
+  color: white;
+  background-color: black;
+  height: 500px;
+  width: 1118.4px;
+}
+
+/* Weeknd section */
+
 .weekndsection {
   display: inline-block;
   position: relative;
   top: 100px;
-  left: 400px;
+  left: 457px;
+  background-color: black;
+  width: 1118.4px;
 }
 .weekndimg {
   height: 372.8px;
@@ -324,12 +359,215 @@ body {
 }
 .weekndtext {
   font-size: 19px;
+  line-height: 2;
   text-align: left;
-}
-.favartisttitle {
-  position: absolute;
-  right: 0px;
+  color: #d1dee6;
+  font-weight: bold;
 }
 .walbums {
   font-size: 20px;
+  background-color: black;
+}
+.whisalbums {
+  color: white;
+}
+.Trilogyfake {
+  color: white;
+}
+.KissLandfake {
+  color: #39be7d;
+}
+.BeautyBehindtheMadnessfake {
+  color: #e9e443;
+}
+.Starboyfake {
+  color: #ce033b;
+}
+.MyDearMelancholyfake {
+  color: #b14119;
+}
+.AfterHoursfake {
+  color: #f80200;
+}
+.DawnFMfake {
+  color: #d1dee6;
+}
+
+/* Juice WRLD section */
+
+.juicesection {
+  display: inline-block;
+  position: relative;
+  top: 100px;
+  left: 457px;
+  background-color: #a45f96;
+  width: 1118.4px;
+  padding-bottom: 37px;
+}
+.juiceimg {
+  height: 372.8px;
+  width: 372.8px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 30px;
+  position: relative;
+  top: 5px;
+}
+.juicetext {
+  font-size: 22px;
+  line-height: 2;
+  text-align: left;
+  color: #1c2f40;
+  font-weight: bold;
+}
+.juicealbums {
+  font-size: 22px;
+  background-color: #a45f96;
+}
+.jhisalbums {
+  color: #1c2f40;
+  font-weight: bold;
+}
+.ggrfake {
+  color: #efd868;
+}
+.wodfake {
+  color: #fefefe;
+}
+.drflfake {
+  color: #b4321f;
+}
+.lndfake {
+  color: #e69fbd;
+}
+.fdfake {
+  color: #02070b;
+}
+
+/* Favourite albums */
+
+.Favalbumssection {
+  position: relative;
+  top: 80px;
+  left: 457px;
+  background-color: black;
+}
+.Favalbumstitle {
+  color: white;
+  padding-top: 20px;
+}
+
+/* After Hours */
+
+.AfterHourspart {
+  position: relative;
+}
+.FavAfterHourstitle {
+  color: #f80200;
+  font-size: 30px;
+}
+.MyAfterHoursimg {
+  height: 372.8px;
+  width: 372.8px;
+  position: relative;
+  float: left;
+  margin-left: 10px;
+}
+.AfterHourstext {
+  position: relative;
+  line-height: 2;
+  left: 10px;
+  color: #f80200;
+  text-align: left;
+  font-size: 25px;
+}
+
+/* DawnFM */
+
+.DawnFMpart {
+  padding-top: 5px;
+}
+.FavDawntitle {
+  color: #d1dee6;
+  position: relative;
+  right: 50px;
+  font-size: 30px;
+}
+.MyDawnFMimg {
+  height: 372.8px;
+  width: 372.8px;
+  float: right;
+}
+.DawnFMtext {
+  color: #d1dee6;
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
+}
+
+/* Legends Never Die */
+
+.LegendsNeverDiepart {
+  padding-top: 5px;
+}
+.FavLegendstitle {
+  color: #e69fbd;
+  font-size: 30px;
+}
+.MyLegendsimg {
+  height: 372.8px;
+  width: 372.8px;
+  float: left;
+}
+.LegendsNeverDietext {
+  color: #e69fbd;
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
+}
+
+/* FightingDemons */
+
+.FightingDemonspart {
+  padding-top: 5px;
+}
+.FavFightingtitle {
+  position: relative;
+  right: 20px;
+  color: white;
+  font-size: 30px;
+}
+.MyFightingDemonsimg {
+  height: 372.8px;
+  width: 372.8px;
+  float: right;
+}
+.FightingDemonstext {
+  color: white;
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
+}
+
+/* Kiss Land */
+
+.KissLandpart {
+  padding-top: 5px;
+}
+.FavKisslandtitle {
+  color: #39be7d;
+  font-size: 30px;
+  position: relative;
+  right: 50px;
+}
+.MyKisslandimg {
+  height: 372.8px;
+  width: 372.8px;
+  float: right;
+}
+.KissLandtext {
+  color: #39be7d;
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
 }
