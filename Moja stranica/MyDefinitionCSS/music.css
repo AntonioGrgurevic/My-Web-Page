@@ -571,3 +571,14 @@ body {
   line-height: 2;
   font-size: 25px;
 }
+
+.favourite-songs {
+  text-decoration: none;
+}
+.favourite-songs:hover {
+  background-color: #d1dee6;
+}
+.favourite-songs:visited {
+  text-decoration: none;
+  color: black;
+}
